@@ -84,16 +84,16 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(Images3/volvo1.jpg);
+    background-image: url(Images/volvo1.jpg);
 }
 .card2{
-    background-image: url(Images3/volvo4.jpg);
+    background-image: url(Images/volvo4.jpg);
 }
 .card3{
-    background-image: url(Images3/volvo3.jpg);
+    background-image: url(Images/volvo3.jpg);
 }
 .card4{
-    background-image: url(Images3/volvo2.jpg);
+    background-image: url(Images/volvo2.jpg);
 }
 
 .card:hover{
@@ -107,4 +107,5 @@ h5{
 .card p{
     text-shadow: 0 0 15px #000;
     font-size: 8px;
+
 }
